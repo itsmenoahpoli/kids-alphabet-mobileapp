@@ -24,9 +24,9 @@
     "userInterfaceStyle": "light",
 
     "splash": {
-      "image": "./assets/splash.png",
+      "image": null,
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#d63384"
     },
     "assetBundlePatterns": ["**/*"],
     "ios": {
